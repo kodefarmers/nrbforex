@@ -1,0 +1,25 @@
+{
+  "name": "nrbforex",
+  "version": "1.0.0",
+  "description": "nrb-forex allows an easy consumption of forex API by Nepal Rastra Bank.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodefarmers/nrbforex.git"
+  },
+  "keywords": [
+    "currency",
+    "Nepal Rastra Bank",
+    "NRS",
+    "NRS exchange"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kodefarmers/nrbforex/issues"
+  },
+  "homepage": "https://github.com/kodefarmers/nrbforex#readme"
+}
